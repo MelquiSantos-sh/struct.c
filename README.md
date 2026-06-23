@@ -1,0 +1,2 @@
+# struct.c
+atividade 
